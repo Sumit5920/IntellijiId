@@ -1,8 +1,7 @@
 package com.sumit.oops;
 
-public class HelloWorld {
-
+public class Encapulation {
     public static void main(String[] args) {
-        System.out.println("Hello");
+        System.out.println("Majak Prv");
     }
 }
