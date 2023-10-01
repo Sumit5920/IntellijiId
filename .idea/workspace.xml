@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fb9e726-4703-4f1a-a28d-8e8e752e40fd" name="Changes" comment="OOps(abstraction, inheritance, Encapsulation, static member, constructor)">
+    <list default="true" id="4fb9e726-4703-4f1a-a28d-8e8e752e40fd" name="Changes" comment="OOps(interface)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sumit/oops/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sumit/oops/Inheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,28 +38,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master__first",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/IntelijiSumitRepository/JavaProgramming/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master__first&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/IntelijiSumitRepository/JavaProgramming/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sumit.oops.Inheritance" />
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_2_0.A" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sumit.oops.*" />
+          <option name="PATTERN" value="java_2_0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +70,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sumit.oops.InheritanceDemo" />
+    <configuration name="Demoss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_2_0.inheritance.Demoss" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sumit.oops.*" />
+          <option name="PATTERN" value="java_2_0.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_2_0.Encapsulation" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_2_0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sumit.commonprogram.ReverseString" />
+    <configuration name="StaticS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_2_0.StaticS" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sumit.commonprogram.*" />
+          <option name="PATTERN" value="java_2_0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,10 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demoss" />
+        <item itemvalue="Application.StaticS" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.Encapsulation" />
         <item itemvalue="Application.Mainssss" />
-        <item itemvalue="Application.Inheritance" />
-        <item itemvalue="Application.InheritanceDemo" />
-        <item itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +143,19 @@
       <workItem from="1693737213648" duration="1489000" />
       <workItem from="1693739597812" duration="256000" />
       <workItem from="1693739867669" duration="11114000" />
-      <workItem from="1693853687937" duration="1895000" />
+      <workItem from="1693853687937" duration="3761000" />
+      <workItem from="1693857498279" duration="100000" />
+      <workItem from="1694020373389" duration="1019000" />
+      <workItem from="1694021410283" duration="170000" />
+      <workItem from="1694021692121" duration="674000" />
+      <workItem from="1694228435476" duration="73000" />
+      <workItem from="1694228522821" duration="185000" />
+      <workItem from="1694403682332" duration="7133000" />
+      <workItem from="1694696793493" duration="12532000" />
+      <workItem from="1694793385706" duration="886000" />
+      <workItem from="1696076165492" duration="102000" />
+      <workItem from="1696076494736" duration="7238000" />
+      <workItem from="1696184505912" duration="9351000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -159,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693774647395</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="OOps(interface)">
+      <option name="closed" value="true" />
+      <created>1693855882145</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693855882145</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +208,8 @@
     <MESSAGE value="commit new" />
     <MESSAGE value="reverse a string" />
     <MESSAGE value="OOps(abstraction, inheritance, Encapsulation, static member, constructor)" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOps(abstraction, inheritance, Encapsulation, static member, constructor)" />
+    <MESSAGE value="OOps(interface)" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOps(interface)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -179,6 +218,61 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java_2_0/StaticMemeber.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java_2_0/StaticMemeber.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java_2_0/instanceV.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java_2_0/instanceV.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java_2_0/instanceV.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/java_2_0/StaticMemeber.java</url>
+          <line>24</line>
+          <properties field="b" class="java_2_0.Demo" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/java_2_0/StaticMemeber.java</url>
+          <line>22</line>
+          <properties field="s" class="java_2_0.Demo" />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/java_2_0/StaticMemeber.java</url>
+          <line>23</line>
+          <properties field="a" class="java_2_0.Demo" />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/java_2_0/instanceV.java</url>
+          <line>20</line>
+          <properties field="a" class="java_2_0.utility.Demo" />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/java_2_0/instanceV.java</url>
+          <line>12</line>
+          <properties field="s" class="java_2_0.utility.Parent" />
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

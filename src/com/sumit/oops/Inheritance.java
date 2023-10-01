@@ -6,6 +6,7 @@ public class Inheritance {
 
         System.out.println("inside the main method");
 
+
         Child.getAns();//static method call
 
         int a = Child.a;
