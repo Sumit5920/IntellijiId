@@ -22,7 +22,7 @@ public class Encapulation {
         Childs object = new Childs();
         //     object.getAverage(); // exception handling as Arithmetic exception
 
-        object.getDivide();
+       // object.getDivide();
 
 
     }
@@ -59,31 +59,31 @@ class Childs extends Parents{
     //
     //	}
 
-    //	//data hide
-    //	private int a = 30;
-    //	public int getA() {
-    //		return a;
-    //	}
-    //	public void setA(int a) {
-    //		this.a = a;
-    //	}
-    //	private void getAge() {
-    //		System.out.println("inside child class: "+ a);
-    //		a = 80;
-    //		System.out.println("inside child class: "+ a);
-    //
-    //	}
-    //
-    //	private String name = "Sumit";
-    //
-    //	public void setName(String name) {
-    //
-    //		this.name = name;//Rama
-    //	}
-    //
-    //	public String getName() {
-    //		return name;
-    //	}
+    	//data hide
+    	private int a = 30;
+    	public int getA() {
+    		return a;
+    	}
+    	public void setA(int a) {
+    		this.a = a;
+    	}
+    	private void getAge() {
+    		System.out.println("inside child class: "+ a);
+    		a = 80;
+    		System.out.println("inside child class: "+ a);
+
+    	}
+
+    	private String name = "Sumit";
+
+    	public void setName(String name) {
+
+    		this.name = name;//Rama
+    	}
+
+    	public String getName() {
+    		return name;
+    	}
 
 
     //Exception handling
@@ -100,17 +100,17 @@ class Childs extends Parents{
 
     //	}
 
-    void getDivide()
-    {
-        int ar[] = new int[7];
-
-        for(int i = 0; i <5; i++) {
-            ar[i] = i;
-        }
-        for(int i = 0; i <7; i++) {
-            System.out.println(ar[i]);
-        }
-
-    }
+//    void getDivide()
+//    {
+//        int ar[] = new int[7];
+//
+//        for(int i = 0; i <5; i++) {
+//            ar[i] = i;
+//        }
+//        for(int i = 0; i <7; i++) {
+//            System.out.println(ar[i]);
+//        }
+//
+//    }
 
 }

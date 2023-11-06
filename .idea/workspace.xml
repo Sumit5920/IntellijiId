@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fb9e726-4703-4f1a-a28d-8e8e752e40fd" name="Changes" comment="OOps(interface)">
+    <list default="true" id="4fb9e726-4703-4f1a-a28d-8e8e752e40fd" name="Changes" comment="OOps2">
+      <change afterPath="$PROJECT_DIR$/src/com/sumit/collectionss/ListsInterface/ArrayLIstss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sumit/collectionss/SetInterface/HashSetProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sumitOpps/basic/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sumit/oops/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sumit/oops/Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sumit/collectionss/ArrayLIstss.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sumit/oops/Encapulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sumit/oops/Encapulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_2_0/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_2_0/Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_2_0/inheritance/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_2_0/inheritance/MethodOverloading.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +61,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -155,7 +164,22 @@
       <workItem from="1694793385706" duration="886000" />
       <workItem from="1696076165492" duration="102000" />
       <workItem from="1696076494736" duration="7238000" />
-      <workItem from="1696184505912" duration="9351000" />
+      <workItem from="1696184505912" duration="15810000" />
+      <workItem from="1696238518437" duration="3151000" />
+      <workItem from="1696324992676" duration="27000" />
+      <workItem from="1696328770556" duration="37000" />
+      <workItem from="1696675731287" duration="23000" />
+      <workItem from="1696675765352" duration="71000" />
+      <workItem from="1696675849127" duration="1731000" />
+      <workItem from="1696908860623" duration="32000" />
+      <workItem from="1697084146123" duration="17096000" />
+      <workItem from="1697801039733" duration="6184000" />
+      <workItem from="1698314030627" duration="30676000" />
+      <workItem from="1699111442838" duration="118000" />
+      <workItem from="1699111911064" duration="614000" />
+      <workItem from="1699154220340" duration="381000" />
+      <workItem from="1699154620329" duration="108000" />
+      <workItem from="1699154741087" duration="1598000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -197,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693855882145</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="OOps2">
+      <option name="closed" value="true" />
+      <created>1696194139468</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696194139472</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,16 +241,12 @@
     <MESSAGE value="reverse a string" />
     <MESSAGE value="OOps(abstraction, inheritance, Encapsulation, static member, constructor)" />
     <MESSAGE value="OOps(interface)" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOps(interface)" />
+    <MESSAGE value="OOps2" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOps2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/java_2_0/StaticMemeber.java</url>
           <line>33</line>
@@ -228,21 +256,6 @@
           <url>file://$PROJECT_DIR$/src/java_2_0/StaticMemeber.java</url>
           <line>4</line>
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java_2_0/instanceV.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java_2_0/instanceV.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java_2_0/instanceV.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/java_2_0/StaticMemeber.java</url>
@@ -262,18 +275,10 @@
           <properties field="a" class="java_2_0.Demo" />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/java_2_0/instanceV.java</url>
-          <line>20</line>
-          <properties field="a" class="java_2_0.utility.Demo" />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/java_2_0/instanceV.java</url>
-          <line>12</line>
-          <properties field="s" class="java_2_0.utility.Parent" />
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="15" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
